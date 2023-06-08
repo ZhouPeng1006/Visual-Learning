@@ -1,4 +1,4 @@
-package com.example.visuallearningservice;
+package com.zp.visuallearningservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
