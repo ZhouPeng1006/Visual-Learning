@@ -77,7 +77,7 @@ export default {
           .then((response) => {
             // 处理后端返回的结果
             if (response.data === 'OK') {
-              console.log("ok")
+              console.log(response.data + "1")
             }
             // console.log(response.data);
           })
