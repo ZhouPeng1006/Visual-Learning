@@ -1,0 +1,16 @@
+
+int GLOBAL_VAR = 10;
+
+
+int ret(int s){
+    int a = 1;
+    int b = 2;
+    int c = a + b;
+    printf("%d",c);
+    return add(a,b);
+}
+
+int add(int a, int b) {
+    return a + b;
+}
+
